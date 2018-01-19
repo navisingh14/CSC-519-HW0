@@ -39,4 +39,4 @@ exit 0
 2:45 Simple pipeline  
 
 #### Ques. What else could you use hooks for? What might you want to do before pushing changes to production?
-Answer. These could also be used to notify other members when a new change has been pushed if they are waiting on a work to be done. 
+Answer. These could also be used to notify other members when a new change has been pushed if they are waiting on a work to be done. Before pushing the changes to the production we might want to check things like code coverage and test coverage to see if any changes highly affected them.
