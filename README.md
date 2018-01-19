@@ -22,5 +22,8 @@ sensible-browser https://www.youtube.com/
 exit 0
 ```
 
-#### Post-Commit hook link:
-[Post-commit hook video link](https://www.youtube.com/watch?v=_CRtaFXDtZg)  
+#### Screencast link:
+[Click here to watch the video](https://www.youtube.com/watch?v=BRO5zzdeZoM)  
+00:00 Computing workshop - sync folder
+1:37 Hook script
+2:45 Simple pipeline
