@@ -15,12 +15,22 @@ https://csc519-spring2018.slack.com/team/nsingh9
 https://moodle-courses1718.wolfware.ncsu.edu/user/profile.php?id=100604
 
 
+#### Vagrant File
+[Click here to go the vagrant file](https://github.ncsu.edu/nsingh9/CSC-519-HW0/blob/master/Vagrantfile)
+
+#### Post-receive file
+[Click here to go the post-receive file](https://github.ncsu.edu/nsingh9/CSC-519-HW0/blob/master/post-receive)
+
+#### Post-commit file
+[Click here to go to the post-commit file](https://github.ncsu.edu/nsingh9/CSC-519-HW0/blob/master/post-commit)
+
 #### Hook Script
 ```shell
 #!/bin/sh
 sensible-browser https://www.youtube.com/
 exit 0
 ```
+
 
 #### Screencast link:
 [Click here to watch the video](https://www.youtube.com/watch?v=BRO5zzdeZoM)  
