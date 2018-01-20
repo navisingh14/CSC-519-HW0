@@ -10,7 +10,7 @@ nsingh9@ncsu.edu
 
 #### Slack Profile Link: 
 https://csc519-spring2018.slack.com/team/nsingh9
-![Flow Chart](slack.png)
+![Flow Chart](slack.PNG)
 
 
 #### Moodle Profile Link: 
