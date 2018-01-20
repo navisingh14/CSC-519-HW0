@@ -10,9 +10,13 @@ nsingh9@ncsu.edu
 
 #### Slack Profile Link: 
 https://csc519-spring2018.slack.com/team/nsingh9
+![Flow Chart](slack.png)
+
 
 #### Moodle Profile Link: 
 https://moodle-courses1718.wolfware.ncsu.edu/user/profile.php?id=100604
+
+![Flow Chart](moodle.png)
 
 
 #### Vagrant File
